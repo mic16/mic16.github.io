@@ -1,0 +1,162 @@
+{
+  "presentation_text": {
+    "en": "Hey, I'm",
+    "fr": "Bonjour, je suis",
+    "nl": "Hey, ik ben"
+  },
+  "job_description": {
+    "en": "I'm a fullstack developer and I love to create beautiful and functional websites and applications",
+    "fr": "Je suis un développeur fullstack et j'adore créer des sites et des applications beaux et fonctionnels",
+    "nl": "Ik ben een fullstack developer en ik hou ervan om mooie en functionele websites en applicaties te maken"
+  },
+  "looking_for": {
+    "en": "I'm always looking for new freelance and professional opportunities",
+    "fr": "Je suis toujours à la recherche de nouvelles opportunités professionnelles et de freelance",
+    "nl": "Ik ben altijd op zoek naar nieuwe freelance en professionele mogelijkheden"
+  },
+  "technical_skills": {
+    "en": "I'm an avid learner and I love to learn new technologies and skills. Here are a few technologies I've been working with recently",
+    "fr": "Je suis un apprenant avide et j'adore apprendre de nouvelles technologies et compétences. Voici quelques technologies avec lesquelles j'ai travaillé récemment",
+    "nl": "Ik ben een enthousiaste leerling en ik hou ervan om nieuwe technologieën en vaardigheden te leren. Hier zijn een paar technologieën waarmee ik onlangs heb gewerkt"
+  },
+  "build_something_together": {
+    "en": "Let's build something special together",
+    "fr": "Construisons quelque chose de spéciale ensemble",
+    "nl": "Laten we samen iets speciaals bouwen"
+  },
+  "about_me": {
+    "en": "About me",
+    "fr": "À propos de moi",
+    "nl": "Over mij"
+  },
+  "soft_skills": {
+    "en": "I'm highly adaptable and I'm always learning new things. I love to work with a team and I'm always looking for new challenges",
+    "fr": "Je suis très adaptable et j'adore apprendre de nouvelles choses. J'aime travailler avec une équipe et je suis toujours à la recherche de nouveaux défis",
+    "nl": "Ik ben zeer aanpasbaar en ik hou ervan om nieuwe dingen te leren. Ik werk graag met een team en ik ben altijd op zoek naar nieuwe uitdagingen"
+  },
+  "resume": {
+    "en": "Resume",
+    "fr": "CV",
+    "nl": "CV"
+  },
+  "contact": {
+    "en": "Contact",
+    "fr": "Contact",
+    "nl": "Contact"
+  },
+  "education": {
+    "en": "Education",
+    "fr": "Éducation",
+    "nl": "Opleiding"
+  },
+  "school": {
+    "en": "School",
+    "fr": "École",
+    "nl": "School"
+  },
+  "master": {
+    "en": "Master in Computer Science",
+    "fr": "Master en Informatique",
+    "nl": "Master in Computerwetenschappen"
+  },
+  "where": {
+    "en": "Where",
+    "fr": "Où",
+    "nl": "Waar"
+  },
+  "france": {
+    "en": "France",
+    "fr": "France",
+    "nl": "Frankrijk"
+  },
+  "freelance_opportunities": {
+    "en": "Freelance opportunities",
+    "fr": "Opportunités de freelance",
+    "nl": "Freelance mogelijkheden"
+  },
+  "looking_for_freelance": {
+    "en": "I'm always looking for new freelance opportunities",
+    "fr": "Je suis toujours à la recherche de nouvelles opportunités de freelance",
+    "nl": "Ik ben altijd op zoek naar nieuwe freelance mogelijkheden"
+  },
+  "download": {
+    "en": "Download",
+    "fr": "Télécharger",
+    "nl": "Download"
+  },
+  "work_experience": {
+    "en": "Work experience",
+    "fr": "Expérience professionnelle",
+    "nl": "Werkervaring"
+  },
+  "skwad_description": {
+    "en": "I started at Skwad as a part-time student and I eventually transitioned as a freelancer. I was in charge of the development of their mobile application as well as the maintenance of their server and much more",
+    "fr": "J'ai commencé chez Skwad en tant qu'étudiant en alternance et j'ai finalement fait la transition en tant que freelance. J'étais responsable du développement de leur application mobile ainsi que de la maintenance de leur serveur et bien plus encore",
+    "nl": "Ik begon bij Skwad als deeltijdstudent en maakte uiteindelijk de overstap naar freelancer. Ik was verantwoordelijk voor de ontwikkeling van hun mobiele applicatie, evenals het onderhoud van hun server en nog veel meer"
+  },
+  "highlights": {
+    "en": "Highlights",
+    "fr": "Points forts",
+    "nl": "Hoogtepunten"
+  },
+  "skwad_highlight_1": {
+    "en": "Worked on 2 apps, one being made in Flutter, and one being based on a codebase that hadn't been maintained for 3 years in Ionic",
+    "fr": "Travaillé sur 2 applications, l'une étant créée en Flutter, et l'autre étant basée sur une base de code qui n'avait pas été maintenue pendant 3 ans en Ionic",
+    "nl": "Gewerkt aan 2 apps, waarvan er één is gemaakt in Flutter, en één die is gebaseerd op een codebase die 3 jaar niet was onderhouden in Ionic"
+  },
+  "skwad_highlight_2": {
+    "en": "Worked on 2 different backends, one being made in NodeJS and one being made in NestJS (Typescript)",
+    "fr": "Travaillé sur 2 backends différents, l'un étant créé en NodeJS et l'autre étant créé en NestJS (Typescript)",
+    "nl": "Gewerkt aan 2 verschillende backends, waarvan er één is gemaakt in NodeJS en één is gemaakt in NestJS (Typescript)"
+  },
+  "skwad_highlight_3": {
+    "en": "Responsible for the deployment of the backend with Docker and the mobile application on the Google Play Store",
+    "fr": "Responsable du déploiement du backend avec Docker et de l'application mobile sur le Google Play Store",
+    "nl": "Verantwoordelijk voor de implementatie van de backend met Docker en de mobiele applicatie in de Google Play Store"
+  },
+  "camatau_description": {
+    "en": "I worked at Camatau as a part time intern back in 2020-2021 and I've since had the opportunity to work for them again as a freelancer. I was a frontend developer, having notably made a video player for them. Now I work as a backend developer for them, working on a new API they intend to use for their site SingeBill",
+    "fr": "J'ai travaillé chez Camatau en tant que stagiaire à temps partiel en 2020-2021 et j'ai depuis eu l'occasion de travailler à nouveau pour eux en tant que freelance. J'étais développeur frontend, ayant notamment réalisé un lecteur vidéo pour eux. Maintenant, je travaille comme développeur backend pour eux, travaillant sur une nouvelle API qu'ils ont l'intention d'utiliser pour leur site SingeBill",
+    "nl": "Ik werkte bij Camatau als deeltijd stagiair in 2020-2021 en ik heb sindsdien de mogelijkheid gehad om opnieuw voor hen te werken als freelancer. Ik was een frontend developer, die onder meer een videospeler voor hen heeft gemaakt. Nu werk ik op een nieuwe API die ze van plan zijn te gebruiken voor hun site SingeBill als backend developer voor hen"
+  },
+  "camatau_highlight_1": {
+    "en": "Worked on a video player made in Angular",
+    "fr": "Travaillé sur un lecteur vidéo réalisé en Angular",
+    "nl": "Gewerkt aan een videospeler gemaakt in Angular"
+  },
+  "camatau_highlight_2": {
+    "en": "Worked on a new API made in NestJS (Typescript)",
+    "fr": "Travaillé sur une nouvelle API réalisée en NestJS (Typescript)",
+    "nl": "Gewerkt aan een nieuwe API gemaakt in NestJS (Typescript)"
+  },
+  "camatau_highlight_3": {
+    "en": "Worked on the deployment of the API with Docker and the CI with Azure DevOps",
+    "fr": "Travaillé sur le déploiement de l'API avec Docker et la CI avec Azure DevOps",
+    "nl": "Gewerkt aan de implementatie van de API met Docker en de CI met Azure DevOps"
+  },
+  "pss_description": {
+    "en": "I worked at Private Sport Shop as an intern back in 2019. I was a frontend developer, working on a new internal communication tool for the company",
+    "fr": "J'ai travaillé chez Private Sport Shop en tant que stagiaire en 2019. J'étais développeur frontend, travaillant sur un nouvel outil de communication interne pour l'entreprise",
+    "nl": "Ik werkte bij Private Sport Shop als stagiair in 2019. Ik was een frontend developer, en ik werkte aan een nieuwe interne communicatietool voor het bedrijf"
+  },
+  "pss_highlight_1": {
+    "en": "Worked on a new internal communication tool made in ReactJS",
+    "fr": "Travaillé sur un nouvel outil de communication interne réalisé en ReactJS",
+    "nl": "Gewerkt aan een nieuwe interne communicatietool gemaakt in ReactJS"
+  },
+  "pss_highlight_2": {
+    "en": "Worked on the development of a new API made in NodeJS using MongoDB",
+    "fr": "Travaillé sur le développement d'une nouvelle API réalisée en NodeJS utilisant MongoDB",
+    "nl": "Gewerkt aan de ontwikkeling van een nieuwe API gemaakt in NodeJS met behulp van MongoDB"
+  },
+  "send_dm": {
+    "en": "Send me a DM",
+    "fr": "Envoyez-moi un MP",
+    "nl": "Stuur me een DM"
+  },
+  "send_email": {
+    "en": "Or send me an email",
+    "fr": "Ou envoyez-moi un email",
+    "nl": "Of stuur me een email"
+  }
+}
