@@ -6,7 +6,7 @@
   },
   "job_description": {
     "en": "I'm a fullstack developer and I love to create beautiful and functional websites and applications",
-    "fr": "Je suis un développeur fullstack et j'adore créer des sites et des applications beaux et fonctionnels",
+    "fr": "Je suis un développeur fullstack et j'adore créer de beaux sites et applications fonctionnels",
     "nl": "Ik ben een fullstack developer en ik hou ervan om mooie en functionele websites en applicaties te maken"
   },
   "looking_for": {
@@ -158,5 +158,10 @@
     "en": "Or send me an email",
     "fr": "Ou envoyez-moi un email",
     "nl": "Of stuur me een email"
+  },
+  "home": {
+    "en": "Home",
+    "fr": "Accueil",
+    "nl": "Home"
   }
 }

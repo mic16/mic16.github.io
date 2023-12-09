@@ -371,7 +371,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "84b6fe4e84e15310a92fbaa3bc1808b1
 "assets/assets/images/jpg/profile_picture.jpg": "a20837429041ecdb00967eb83e1afd92",
 "assets/assets/images/png/logos/camatau-logo.png": "3433a3c5e125098e7cd6d9b00e738ba2",
 "assets/assets/images/png/logos/dart-logo.png": "a675cb93b75d5f1656c920dceecdcb38",
-"assets/assets/images/png/logos/docker-logo.png": "96dd6e73dcac5609bb0ac494a0cc3b61",
+"assets/assets/images/png/logos/docker-logo.png": "d58757d927ee8e8456a3ece2686b6361",
 "assets/assets/images/png/logos/flutter-logo.png": "f78d11c9cda36c52917f4794d09f10d9",
 "assets/assets/images/png/logos/nestjs-logo.png": "93b99c296cd303e9087b2832436dc189",
 "assets/assets/images/png/logos/nodejs-logo.png": "d1c1e9007502042d1a6f0b57978ef1cd",
@@ -401,9 +401,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "84b6fe4e84e15310a92fbaa3bc1808b1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2af0c81e7c862da7967fee3cf1dfb5be",
-"/": "2af0c81e7c862da7967fee3cf1dfb5be",
-"main.dart.js": "2df18692f11803310b8e4b04a6d665f5",
+"index.html": "18af3318a27cc18b586e3f2aa81fd793",
+"/": "18af3318a27cc18b586e3f2aa81fd793",
+"main.dart.js": "be94e12287ea9c1fa09887961f0bf3b6",
 "manifest.json": "5c1c289131f930ad09d7b0f8d0501cc5",
 "version.json": "2e336249af55e82cc1e9559ad501862a"};
 // The application shell files that are downloaded before a service worker can
