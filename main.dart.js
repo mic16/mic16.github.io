@@ -25041,7 +25041,7 @@ var $async$adn=A.R(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:if($.avC){s=1
 break}p=4
 s=7
-return A.V($.qh().ahe("translations.json"),$async$adn)
+return A.V($.qh().ahe("assets/translations.json"),$async$adn)
 case 7:n=b
 m=B.bv.Q7(0,n,null)
 $.apO=J.ao2(m,new A.ado(),t.N,t.GU)
