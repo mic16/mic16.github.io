@@ -80985,7 +80985,7 @@ A.afp.prototype={
 $0(){var s=0,r=A.Q(t.P)
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=2
-return A.V(A.fk(A.em(null,null,"michael.fabrie@epitech.eu",null,"mailto")),$async$$0)
+return A.V(A.fk(A.em(null,null,"michael.fabrie@outlook.com",null,"mailto")),$async$$0)
 case 2:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:7}
@@ -81458,7 +81458,7 @@ A.agJ.prototype={
 $0(){var s=0,r=A.Q(t.P)
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=2
-return A.V(A.fk(A.em(null,null,"michael.fabrie@epitech.eu",null,"mailto")),$async$$0)
+return A.V(A.fk(A.em(null,null,"michael.fabrie@outlook.com",null,"mailto")),$async$$0)
 case 2:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:7}
